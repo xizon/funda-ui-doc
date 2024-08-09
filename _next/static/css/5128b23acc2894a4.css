@@ -1,0 +1,2 @@
+.back-to-top button{transform:scale(0);position:fixed;bottom:12px;right:12px;width:50px;height:50px;z-index:99;text-align:center;display:block;outline:none;border:none;background-color:transparent;cursor:pointer}.back-to-top button,.back-to-top button svg{transition:.1s ease-in-out}.back-to-top button:hover svg{opacity:.7}.back-to-top button.active{transform:scale(1)}.back-to-top button:active,.back-to-top button:focus{outline:none}.back-to-top button i{font-size:1.5rem}
+/*# sourceMappingURL=5128b23acc2894a4.css.map*/
